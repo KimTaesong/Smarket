@@ -25,8 +25,8 @@
    각종 핫딜 정보를 놓치지 않고 상품을 저렴하게 구매할 수 있다.
 
 [졸업작품 발표 아이디어붐](http://www.ideaboom.net/page/project_detail.php?seq=1695)<br>
-
-<iframe width="1006" height="566" src="https://www.youtube.com/embed/VUFHDybAst4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include index.html id="UFHDybAst" %}  
+ https://www.youtube.com/embed/VUFHDybAst
 
 ### 역할
 
