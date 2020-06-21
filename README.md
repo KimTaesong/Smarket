@@ -26,6 +26,8 @@
 
 [졸업작품 발표 아이디어붐](http://www.ideaboom.net/page/project_detail.php?seq=1695)<br>
 
+<iframe width="1006" height="566" src="https://www.youtube.com/embed/VUFHDybAst4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### 역할
 
 1. 팀장 (프로젝트 조율, 발표, 시연, 문서 작성 및 PPT 제작)<br>
